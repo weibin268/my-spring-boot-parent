@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <parent>
+    <groupId>com.github.weibin268</groupId>
+    <artifactId>my-framework-parent</artifactId>
+    <version>1.0.1</version>
+  </parent>
+
+  <groupId>com.github.weibin268</groupId>
+  <artifactId>my-spring-boot-parent</artifactId>
+  <packaging>pom</packaging>
+  <version>1.0.1</version>
+  <name>my-spring-boot-parent</name>
+  <description>my-spring-boot-parent</description>
+  <url>https://github.com/weibin268/my-spring-boot-parent</url>
+
+  <scm>
+    <connection>scm:git:ssh://github.com/weibin268/my-spring-boot-parent.git</connection>
+    <developerConnection>scm:git:ssh://git@github.com/weibin268/my-spring-boot-parent.git</developerConnection>
+    <url>https://github.com/weibin268/my-spring-boot-parent</url>
+  </scm>
+  <dependencies>
+
+  </dependencies>
+</project>
